@@ -3,9 +3,9 @@
 Um breve resumo de minhas experiências e conhecimentos:
 
 - 🎓 Sou graduado em Engenharia Mecânica pela UFMG.
-- 👔 Tenho experiência como analista de BI na Vale.
+- 👔 Tenho experiência como analista de BI na Vale, onde atuei com o desenvolvimento de indicadores de manutenção de equipamentos.
 - ⌨️ Tenho conhecimentos de Python, PowerBI, SQL, Excel e AWS.
-- 👀 Tenho grande interesse e aptidão para a ciência de dados.
+- 👀 Tenho interesse e aptidão para a ciência de dados.
 - 🌱 No momento estou aprendendo machine learning.
 - 📫 Para entrar em contato comigo mande uma mensagem em meu linkedin -> https://www.linkedin.com/in/gabriel-mendes-3b4a16149/
 
