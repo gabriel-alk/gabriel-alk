@@ -1,8 +1,13 @@
-- 👋 Hi, I’m Gabriel
-- 👀 I’m interested in datascience
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on datascience projects  
-- 📫 How to reach me: send me a dm on my Linkedlin profile -> https://www.linkedin.com/in/gabriel-mendes-3b4a16149/
+ 👋 Olá, meu nome é Gabriel e este é o meu repositório.
+
+Um breve resumo de minhas experiências e conhecimentos:
+
+- 🎓 Sou graduado em Engenharia Mecânica pela UFMG.
+- 👔 Tenho experiência como analista de BI na Vale.
+- ⌨️ Tenho conhecimentos de Python, PowerBI, SQL, Excel e AWS.
+- 👀 Tenho grande interesse e aptidão para a ciência de dados.
+- 🌱 No momento estou aprendendo machine learning.
+- 📫 Para entrar em contato comigo mande uma mensagem em meu linkedin -> https://www.linkedin.com/in/gabriel-mendes-3b4a16149/
 
 <!---
 gabriel-alk/gabriel-alk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
